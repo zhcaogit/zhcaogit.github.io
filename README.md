@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Jekyll"
 permalink: "/about/"
 layout: page
 ---
