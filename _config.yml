@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
   - {title: "Physics", file: "Physics"}
   - {tite: "Code", file: "Code"}
-  - {file: "Mathematics", file:"Mathematics"}
+  - {file: "Mathematics", file: "Mathematics"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:zhcao@mail.ustc.edu.cn"}
