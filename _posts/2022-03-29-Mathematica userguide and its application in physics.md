@@ -1,5 +1,5 @@
 ---
-title: "Second Quantization in CMP"
+title: "Mathematica userguide and its application in physics"
 mathjax: true
 layout: post
 category: code
