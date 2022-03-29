@@ -18,7 +18,6 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
   - {file: "blog.md"}
-  - {file: "README.md"}
   - {title: "Physics", file: "physics.md"}
   - {title: "Code", file: "Code"}
   - {title: "Mathematics", file: "Mathematics"}
@@ -26,7 +25,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:zhcao@mail.ustc.edu.cn"}
   - {title: Github, icon: github, url: "https://github.com/zhcaogit"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
