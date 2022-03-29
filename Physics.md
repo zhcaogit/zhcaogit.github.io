@@ -4,7 +4,7 @@ title: "Physics"
 ---
 
 {% for post in site.posts %}
-  {% if post.categories contains 'Physics' %}
+  {% if post.categories contains 'physics' %}
 
 [{{ post.title }}]({{ post.url }})
 
