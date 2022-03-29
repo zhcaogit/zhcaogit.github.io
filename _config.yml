@@ -17,10 +17,9 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
-  - {file: "blog.md"}
   - {title: "Physics", file: "physics.md"}
-  - {title: "Code", file: "Code"}
-  - {title: "Mathematics", file: "Mathematics"}
+  - {title: "Code", file: "Code.md"}
+  - {title: "Mathematics", file: "Mathematics.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:zhcao@mail.ustc.edu.cn"}
