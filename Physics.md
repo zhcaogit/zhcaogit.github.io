@@ -3,8 +3,10 @@ layout: default
 title: "Physics"
 ---
 
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include physics.html title="Physics" %}
-{% endif %}
+{% for post in site.posts %}
+  {% if post.categories contains 'Physics' %}
+
+[{{ post.title }}]({{ post.url }})
+
+  {% endif %}
+{% endfor %}
