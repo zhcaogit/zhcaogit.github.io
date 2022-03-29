@@ -1,5 +1,5 @@
 ---
-title:  "Second Quantization in CMP"
+title: "Second Quantization in CMP"
 mathjax: true
 layout: post
 ---
