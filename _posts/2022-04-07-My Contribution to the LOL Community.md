@@ -7,3 +7,5 @@ category: jekyll
 As one of the most popular MOBA games, League of legend provides a convenient online platform for contemporary young people to relax and connect with others. 
 I translated several videos that could help players climb the ELO ladder.
 
+{% include embed.html url="https://www.youtube.com/embed/_C0A5zX-iqM" %}
+
