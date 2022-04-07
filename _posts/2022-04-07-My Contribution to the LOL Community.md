@@ -4,7 +4,7 @@ layout: post
 category: jekyll
 ---
 
-As one of the most popular MOBA games, League of legend provides a convenient online platform for contemporary young people to relax and connect with others. 
+As one of the most popular MOBA games, League of Legend provides a convenient online platform for contemporary young people to relax and connect with others. 
 I translated several videos that could help players climb the ELO ladder.
 
 One is about how to carry the feeding team:  
